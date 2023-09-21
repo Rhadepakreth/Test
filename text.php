@@ -80,3 +80,5 @@ defined('JPATH_PLATFORM') or die;
               <label for="text_none"><?php echo JText::_('WF_STYLES_TEXT_NONE'); ?></label>
           </div>
       </div>
+      
+      Hello!
